@@ -1,0 +1,5 @@
+language: c
+
+notifications:
+    email:
+      - jdwoolc@evoforge.org

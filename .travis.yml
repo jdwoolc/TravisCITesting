@@ -4,6 +4,9 @@ compiler:
   - clang
   - gcc
 
+script:
+  - make && make test
+
 notifications:
     email:
       - jdwoolc@evoforge.org

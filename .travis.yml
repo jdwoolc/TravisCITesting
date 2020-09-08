@@ -6,6 +6,7 @@ compiler:
 
 script:
   - make && make test
+  - echo "added a second line"
 
 notifications:
     email:

@@ -2,7 +2,7 @@
 
 Just a repository to practice GitHub and Travis-CI.
 
-Haven't gotten very far. Another change.
+Haven't gotten very far. Another change. Further edit.
 
 # Links
 
